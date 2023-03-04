@@ -1,1 +1,2 @@
-# CIS3301-CODE-10-Binary-Search-Algorithm
+## CIS3301-CODE-10-Binary-Search-Algorithm
+
